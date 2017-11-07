@@ -12,7 +12,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';// material-u
 injectTapEventPlugin(); // подключение, применение плагина
 
 ReactDOM.render( 
-/* оборачиваем в теги material-ui */
+
  <MuiThemeProvider> 
     <Header />   
     <Content />  
