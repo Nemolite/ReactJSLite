@@ -15,7 +15,7 @@ ReactDOM.render(
 
  <MuiThemeProvider> 
     <Header />   
-    <Content />  
+    <Content /> 
    
 
  </MuiThemeProvider>  
